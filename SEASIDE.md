@@ -29,24 +29,6 @@ It serves as the main hub for players to find information, connect with others, 
 - **Frontend:** HTML5, CSS3, JavaScript  
 - **Backend:** Node.js / PHP *(depending on your setup)*  
 - **Hosting:** [seasiderp.lt](https://www.seasiderp.lt)  
-- **Built with ❤️ by:** *Your Name / Alias*  
+- **Built with ❤️ by:** *Justas*  
 
 ---
-
-## 🚀 Getting Started (For Developers)
-
-If you want to contribute or run the site locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/seasiderp.lt.git
-
-# Go into the project folder
-cd seasiderp.lt
-
-# Open in your favorite code editor
-code .
-
-# (Optional) Run locally if using Node.js
-npm install
-npm start
